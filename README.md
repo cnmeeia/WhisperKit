@@ -1,5 +1,6 @@
 
 <div align="center">
+
   
 <a href="https://github.com/argmaxinc/WhisperKit#gh-light-mode-only">
   <img src="https://github.com/argmaxinc/WhisperKit/assets/1981179/6ac3360b-2f5c-4392-a71a-05c5dda71093" alt="WhisperKit" width="20%" />
